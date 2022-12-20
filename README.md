@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BILALck4 a golden future software engineer
+- 👋 Hi, I’m @BILALck4  software and IA engineering student 
 - 👀 I’m interested in IA and software devoloppement
 - 🌱 I’m currently learning C++,python and html+CSS+JS
 - I’m ready to collaborate on any software or IA projects
