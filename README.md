@@ -1,4 +1,6 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/10/15/15/19/digital-1742687_1280.jpg)](https://rishavchanda.io)
+<img width="100%" title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,168,103&height=150&section=header&text=Welcome+to+my+Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+
 <h1 align="center">Hi 👋, I'm CHEKHCHOU BILAL</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
