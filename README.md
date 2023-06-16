@@ -1,4 +1,4 @@
-<img width="100%" title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,168,103&height=150&section=header&text=Welcome+to+my+Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,92,192&height=170&section=header&text=Welcome+to+my+Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 
 <h1 align="center">Hi 👋, I'm CHEKHCHOU BILAL</h1>
