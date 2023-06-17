@@ -26,7 +26,7 @@
 <h2>My stats</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalck4&show_icons=true&locale=en&layout=compact" alt="bilalck4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalck4&show_icons=true&locale=en&layout=compact" alt="bilalck4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalck4&show_icons=true&locale=en" alt="bilalck4" /></p>
 
