@@ -1,5 +1,8 @@
 <img width="100%" title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=1,92,192&height=100&section=header&text=Welcome+to+my+Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Junior+software+devolopper;Moroccan+student." alt="Typing SVG" /></img>
+</p>
 
 <h1 align="center">Hi 👋, I'm CHEKHCHOU BILAL</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
