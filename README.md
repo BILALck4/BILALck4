@@ -1,7 +1,7 @@
 <img width="100%" title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=1,92,192&height=100&section=header&text=Welcome+to+my+Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Junior+software+devolopper;Moroccan+student." alt="Typing SVG" /></img>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Junior+software+engineer;Moroccan+student." alt="Typing SVG" /></img>
 </p>
 
 <h1 align="center">Hi 👋, I'm CHEKHCHOU BILAL</h1>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [chatapp-MERN](https://github.com/BILALck4/chatapp-MERN)
 
-- 🌱 I’m currently learning **python, html+CSS+JS and PHP**
+- 🌱 I’m currently learning **python, html+CSS+JS **
 
 - 📫 How to reach me **bchekhchou@gmail.com or my number 0773154419 my website is on the making**
 
