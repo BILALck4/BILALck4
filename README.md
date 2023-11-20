@@ -13,7 +13,7 @@
 
 - 🔭 I'm working on  [Smartparking](https://github.com/sohaibMan/SmartParking)
 
-- 🌱 I’m currently learning **python, html+CSS+JS **
+- 🌱 I’m currently learning ** python, html+CSS+JS, and other technologies**
 
 - 📫 How to reach me **bchekhchou@gmail.com or my number 0773154419 my website is on the making**
 
