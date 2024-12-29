@@ -5,8 +5,8 @@
 </img>
 </p>
 
-<h1 align="center">Hi👋,my name is CHEKHCHOU BILAL</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
+<h1 align="center">Hi👋,my name is BILAL</h1>
+<h3 align="center">A passionate developer in France</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
@@ -14,9 +14,9 @@
 
 - 🔭 I'm working on  [Smartparking](https://github.com/sohaibMan/SmartParking)
 
-- 🌱 I’m currently learning ** python, html+CSS+JS, and other technologies**
+- 🌱 I’m currently learning ** Docker, Jenkins and other technologies**
 
-- 📫 How to reach me **bchekhchou@gmail.com or my number 0773154419 my website is on the making**
+- 📫 How to reach me **bchekhchou@gmail.com or my number 0763130595 my website is on the making**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
