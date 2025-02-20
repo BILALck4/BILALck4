@@ -22,7 +22,7 @@
 **NB:** N'hésitez pas à consulter les projets dans mes organisations !  
 
 ### 🔗 Projets disponibles  
-- 📝 **Générateur de texte** : [Camp-AI-gn](https://github.com/Camp-AI-gn)  
+- 📝 **Générateur d'histoire de jeux video** : [Camp-AI-gn](https://github.com/Camp-AI-gn)  
 - 🎓 **Gestion de scolarité et évaluation** : [LaCREIM](https://github.com/orgs/LaCREIM/repositories)  
 - 🏦 **Assurance décentralisée (Backend microservices & Solidity)** : [ML-jee](https://github.com/orgs/ML-jee/repositories)  
 - ⚡ **Optimisation de requêtes (Query Optimizer)** : [Oracle-Wizards](https://github.com/Oracle-Wizards)  
