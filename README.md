@@ -22,11 +22,12 @@
 **NB:** N'hésitez pas à consulter les projets dans mes organisations !  
 
 ### 🔗 Projets disponibles  
-- 📝 **Générateur d'histoire de jeux video** : [Camp-AI-gn](https://github.com/Camp-AI-gn)  
+- 📝 **Générateur de texte** : [Camp-AI-gn](https://github.com/Camp-AI-gn)  
 - 🎓 **Gestion de scolarité et évaluation** : [LaCREIM](https://github.com/orgs/LaCREIM/repositories)  
 - 🏦 **Assurance décentralisée (Backend microservices & Solidity)** : [ML-jee](https://github.com/orgs/ML-jee/repositories)  
 - ⚡ **Optimisation de requêtes (Query Optimizer)** : [Oracle-Wizards](https://github.com/Oracle-Wizards)  
 - 🚀 **Gestion des étudiants en 2 heures** : [quick-curd](https://github.com/orgs/quick-curd/repositories)  
+- 🎮 **Jeu Domineering qui utilise les algorithmes alpha-beta peut etre joué a 2** : [Domineering Game](https://github.com/BakrAsskali/Domineering-game)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
