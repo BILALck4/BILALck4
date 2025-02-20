@@ -12,7 +12,6 @@
 
 
 - 🔭 I’m currently working on [School project](https://github.com/orgs/LaCREIM/repositories)
-- 
 
 - 🌱 I’m currently learning **Kubernetes and Go**
 
